@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizly</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+
+    <string name="textcontinue">continue</string>
+    <string name="txt_leve1">Level 1</string>
+    <string name="txt_leve2">Level 2</string>
+    <string name="txt_leve3">Level 3</string>
+    <string name="txt_leve4">Level 4</string>
+    <string name="txt_leve5">Level 5</string>
+    <string name="txt_leve6">Level 6</string>
+
+</resources>

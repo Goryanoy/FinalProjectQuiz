@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">חידון</string>
+    <string name="start">התחלה</string>
+    <string name="back">חזור</string>
+    <string name="level">רמה:</string>
+
+    <string name="textcontinue">להמשיך</string>
+    <string name="txt_leve1">רמה 1</string>
+    <string name="txt_leve2">רמה 2</string>
+    <string name="txt_leve3">רמה 3</string>
+    <string name="txt_leve4">רמה 4</string>
+    <string name="txt_leve5">רמה 5</string>
+    <string name="txt_leve6">רמה 6</string>
+
+</resources>

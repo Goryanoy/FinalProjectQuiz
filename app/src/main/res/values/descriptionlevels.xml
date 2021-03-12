@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">choose the greatest number.\nthe questions can be repeated until you get 20 points</string>
+    <string name="leveloneEnd">"Congratulations, you did it !!!\n
+        Did you know that the number 7 is considered the luckiest number. There are 7 days a week, 7 continents, 7 colors of the rainbow, 7 music notes, 7 days of creation, and more.
+        Also, the number 7 is most often the favorite number around the world."</string>
+    <string name="leveltwo">choose the greatest romanian number.\nthe questions can be repeated until you get 20 points</string>
+    <string name="leveltwoEnd">well done!!!\n
+        did you know that there is no number zero in romanian numbers?</string>
+    <string name="leveltree">choose edible. \nthe questions can be repeated until you get 20 points </string>
+    <string name="leveltreeEnd">Good Job Champ!!!\n
+    it is known that many crocodiles swallow stones, but not because they are edible, the stones help them stay at the bottom of the river.
+    </string>
+</resources>
